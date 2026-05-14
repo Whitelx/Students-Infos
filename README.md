@@ -219,4 +219,4 @@ Future improvements could include:
 
 ## Author
 
-Created by Whitel as a Python practice project.
+Created by Mohammad Alzahrani as a Python practice project.
